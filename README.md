@@ -1,16 +1,16 @@
-#BioPython Class
+# BioPython Class
 
-##Description:
+## Description:
 
-##Motivation:
+## Motivation:
 
-##System requirements:
+## System requirements:
 
-##Install:
+## Install:
 
-##Quick start:
+## Quick start:
 
-##Licence:
+## Licence:
 
-##Suport Contact information:
+## Suport Contact information:
 danteadotose@gmail.com
